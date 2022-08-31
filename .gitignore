@@ -1,0 +1,9 @@
+.idea
+__pycache__
+.mypy_cache
+.venv
+VENV
+venv
+TEST
+
+JakuszNet/settings/settings_*.py
