@@ -6,4 +6,4 @@ VENV
 venv
 TEST
 
-JakuszNet/settings/settings_*.py
+configs/*.toml
